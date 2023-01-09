@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://cdn.myportfolio.com/bbba6522-fb0e-453e-9979-426ef200d41e/916b41c8-fed4-408b-94e8-288a0efb059b_rw_1920.jpg?h=762c61034a2fb93b0d3373cb3aadc02c" width="25%"/>
+</div>
+
 <!--
 **justincory/justincory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
