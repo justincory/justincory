@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/justin-cory/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/flowers_n_fire/">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -14,6 +14,10 @@
 </div>
 
 ### Hello fellow traveler!
+
+💅 Pronouns: he/him/they<br>
+💃 I am a designer, musician, artist, vegan, Zen Buddhist, and an undergraduate student at Portland State University.<br>
+🌈 My design portfolio is here: http://justincory.design/<br>
 
 <!--
 **justincory/justincory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
