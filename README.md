@@ -14,7 +14,7 @@
 
 💅 Pronouns: he/him/they<br>
 💃 I am a designer, musician, artist, vegan, Zen Buddhist, and undergraduate design student at Portland State University.<br>
-✨ HTML5, CSS3, UX/UI, Product Design, Information Architecture, Graphic Design, Motion Graphics, Branding & Identity.
+✨ HTML5, CSS3, UX/UI, Product Design, Information Architecture, Graphic Design, Motion Graphics, Branding & Identity.<br>
 🌈 My design portfolio is here: http://justincory.design/<br>
 
 <!--
