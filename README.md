@@ -13,9 +13,9 @@
 ### Hello fellow traveler!
 
 💅 Pronouns: he/him/they<br>
-💃 I am a designer, musician, artist, vegan, & Zen Buddhist.<br>
-🌻 Design student at Portland State University.<br>
-✨ HTML5, CSS3, UX & UI, Information Architecture, Graphic Design, Motion Graphics.<br>
+💃 I am a designer, musician, artist, vegan, & agnostic Zen Buddhist.<br>
+🌻 Graduate of the design program at Portland State University.<br>
+✨ HTML, CSS, JavaScript, Bootstrap, UX & UI, Information Architecture, Graphic Design.<br>
 🌈 My design portfolio is here: http://justincory.design/<br>
 
 <!--
